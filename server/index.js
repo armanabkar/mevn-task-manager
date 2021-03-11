@@ -25,6 +25,6 @@ app.get("*", (req, res) => {
 // Starts the server on the given port
 app.listen(3000, () => {
   console.log(
-    "MEVN app is listening on port 3000 in " + process.env.NODE_ENV + " mode!"
+    "Server is listening on port 3000 in " + process.env.NODE_ENV + " mode!"
   );
 });
