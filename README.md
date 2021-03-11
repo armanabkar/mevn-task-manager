@@ -1,6 +1,6 @@
 # MEVN Stack Task Manager
 
-Simple app for managing tasks and users built with MEVN stack.
+Simple app for managing tasks and users built with MEVN stack (MongoDB, Express, Vue & Node).
 
 <h2 align="center">
   <img src="./screenshots.gif" alt="mevn-task-manager" width="600px" />
@@ -14,7 +14,7 @@ Simple app for managing tasks and users built with MEVN stack.
 [VueJS](https://vuejs.org/) -
 [VueJS CLI](https://cli.vuejs.org/) 
 
-### Installing
+## Installation & Usage
 
 First, install all of the NodeJS dependencies (located in **package.json** file)
 ```
