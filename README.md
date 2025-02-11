@@ -81,7 +81,7 @@ set NODE_ENV=production
 ## Author
 
 * **David Acosta** - [Portfolio](http://www.acostadavid.com/),  [YouTube](https://www.youtube.com/channel/UCKrHQelsiwrVUZ7v9nLCwgA)
-* modified by **Arman Abkar** - [Portfolio](http://www.armanabkar.ir/)
+* modified by **Arman** 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
